@@ -1,4 +1,4 @@
-# vue_test
+# 轴承故障诊断系统前端
 
 ## Project setup
 ```
